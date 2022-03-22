@@ -1,5 +1,5 @@
 # 2021-EACISBA
-Eastern Asia Chapter of the International Society for Bayesian Analysis (ISBA)[https://events.stat.uconn.edu/EACISBA2021/index.html]
+[Eastern Asia Chapter of the International Society for Bayesian Analysis (ISBA)](https://events.stat.uconn.edu/EACISBA2021/index.html)
 * In-Person Mirror Sites: Atlantic City, New Jersey and Kunming, Yunnan
 * Virtual: Conference App Whova
 * November 14 - November 16 2021
