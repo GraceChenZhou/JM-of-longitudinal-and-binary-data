@@ -28,3 +28,6 @@ conclusions in clinical studies.
 # Keywords
 bias, multicenter, Bayesian joint model, flexible link function, longitudinal, medical monitoring, registry
 data
+
+# Authors
+[Grace C. Zhou](Division of Biostatistics & Epidemiology, Cincinnati Children’s Hospital Medical Center, Cincinnati, OH), Seongho Song, Rhonda D. Szczesniak
