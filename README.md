@@ -3,7 +3,7 @@
 * In-Person Mirror Sites: Atlantic City, New Jersey and Kunming, Yunnan
 * Virtual: Conference App Whova
 * November 14 - November 16 2021
-* Non-presenter
+* Dr. Song Seongho represented
 
 # Abstract
 Joint modelling has been a useful strategy for incorporating latent associations between different
