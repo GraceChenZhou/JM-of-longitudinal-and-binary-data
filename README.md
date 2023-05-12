@@ -30,7 +30,7 @@ bias, multicenter, Bayesian joint model, flexible link function, longitudinal, m
 data
 
 # Authors
-Grace C. Zhou, Seongho Song, Rhonda D. Szczesniak
+**Grace C. Zhou**, Seongho Song, Rhonda D. Szczesniak
 
 # Publishment
 http://doi.org/10.1002/sim.9758 
