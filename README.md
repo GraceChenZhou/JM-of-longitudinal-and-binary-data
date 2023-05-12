@@ -1,4 +1,5 @@
 # Title
+Multilevel joint model of longitudinal continuous and binary outcomes for hierarchically structured data
 
 # Abstract
 Joint modelling has been a useful strategy for incorporating latent associations between different
