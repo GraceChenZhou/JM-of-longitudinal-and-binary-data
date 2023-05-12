@@ -1,9 +1,4 @@
-# 2021-EACISBA
-[Eastern Asia Chapter of the International Society for Bayesian Analysis (ISBA)](https://events.stat.uconn.edu/EACISBA2021/index.html)
-* In-Person Mirror Sites: Atlantic City, New Jersey and Kunming, Yunnan
-* Virtual: Conference App Whova
-* November 14 - November 16 2021
-* Dr. Song Seongho represented
+# Title
 
 # Abstract
 Joint modelling has been a useful strategy for incorporating latent associations between different
@@ -34,3 +29,9 @@ data
 
 # Publishment
 http://doi.org/10.1002/sim.9758 
+
+# Note
+Dr. Song Seongho represented at 2021-EACISBA [Eastern Asia Chapter of the International Society for Bayesian Analysis (ISBA)](https://events.stat.uconn.edu/EACISBA2021/index.html)
+* In-Person Mirror Sites: Atlantic City, New Jersey and Kunming, Yunnan
+* Virtual: Conference App Whova
+* November 14 - November 16 2021
